@@ -1,3 +1,21 @@
+#ChitChat 
+#ChitChat is a simple messaging application built with React and Firebase. It allows users to sign in with their Google accounts and exchange messages in real-time. This README provides an overview of the project's functionality and how to set it up.
+
+##Features
+User Authentication: Users can sign in using their Google accounts.
+Real-time Messaging: Messages are displayed in real-time as they are sent.
+Message Ordering: Messages are ordered by the timestamp of when they were created.
+Smooth Scrolling: The application automatically scrolls to the latest message when a new one is sent.
+
+## Deployment
+
+The project is deployed and can be accessed at [ChitChat Deployment](https://peppy-bonbon-8fba43.netlify.app/).
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
